@@ -77,9 +77,4 @@
 
 ---
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Subham8705&icon=5&color=0" alt="Visitor Count" />
-  </a>
-</p>
 
