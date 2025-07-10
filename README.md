@@ -64,9 +64,7 @@
 ---
 
 ### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Subham8705&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</p>
+![](https://github-trophies.vercel.app/?username=Subham8705&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
